@@ -1,0 +1,156 @@
+{
+    "btn":[
+           {"id":1,"name":"ورود","image":[]},
+           {"id":2,"name":"خرید اشتراک","image":[{"id":1,"link":"./public/image/svg-export/svgexport-9.png"}]}
+     ],
+
+     "logo":[{"id":1,"link":"./public/image/svg-export/لوگوفیلیمو.png"}],
+
+     "menu":[
+          {"id":1,"name":"فیلیموتور","image":[{"id":1,"link":"./public/image/svg-export/svgexport-5.png"}]},
+          {"id":2,"name":"فیلم","image":[]},
+          {"id":3,"name":"سریال","image":[]},
+          {"id":4,"name":"ایرانی","image":[]},
+          {"id":5,"name":"خارجی","image":[]},
+          {"id":6,"name":"جستجو","image":[{"id":1,"link":"./public/image/svg-export/svgexport-1.png"}]}
+    ],
+
+    "menuxs":[
+        {"id":1,"name1":"ورود","name2":"خرید اشتراک","image1":"./public/image/svg-export/svgexport-9.png","image2":"./public/image/svg-export/svgexport-1.png"}
+    ],
+
+    "logoxs":[{"id":1,"link":"./public/image/svg-export/لوگوفیلیمو.png"}],
+
+    "slider":[
+           {"id":1,"image":"./public/image/slide1.webp"},    
+           {"id":2,"image":"./public/image/slide2.webp"},    
+           {"id":3,"image":"./public/image/slide3.webp"}
+    ],
+    "slidertext":[
+        {"id":1,"text1":"با فیلیمو بی وقفه فیلم ببین","text2":"کنترل همیش دست توست","text3":"خرید اشتراک وتماشا","image3":"./public/image/svg-export/svgexport-11.png","text4":"تخفیف ویژه برای کاربران","image4":"./public/image/svg-export/svgexport-12.png",
+        "tick":[
+            {"id":1,"image":"./public/image/svg-export/svgexport-10.png","text":"هزار اپیزود فیلم وسریال برای تماشا داری"},
+            {"id":1,"image":"./public/image/svg-export/svgexport-10.png","text":"میتونی دانلود کنی بدون اینترنت تماشا کنی"},
+            {"id":1,"image":"./public/image/svg-export/svgexport-10.png","text":"می تونی یک عضو مخصوص تماشای کودک بسازی"}
+        ]
+    }
+    ],
+
+    "favorite":[
+        {"id":1,"text1":"محبوبترین های فیلم ها","text2":"سریال","text3":"فیلم","text4":"صداتو","text5":"کارگردان : حامد جواد زاده" ,"text6":"گیم شو","text7":"ریلیتی شو","text8":"صداتو یک مسابقه موسیقایی پرمعما و جذاب است که محسن کیایی با چهره ای متفاوت اجرای آن را به عهده دارد. چهره های آشنایی مانند شبنم مقدمی، محمد بحرانی، محسن شریفیان، و امیرمهدی ژوله قرار است شرکت کنندگان را در این مسابقه سرگرمی راهنمایی کنند. فضای معمایی و موزیکال برنامه، اتفاقات هیجان انگیز و بی سابقه ای را برای تماشاگران و افراد حاضر در مسابقه رقم می زند و تنوع موسیقایی ایرانی و شرقی «صداتو»، مخاطبان را با طرح خاص و رنگ و لهجه‌ای تازه‌ مواجه می کند.",
+        "pictures":[
+            {"id":1,"image":"./public/image/fav1.webp"},
+            {"id":2,"image":"./public/image/fav2.webp"},
+            {"id":3,"image":"./public/image/fav3.webp"},
+            {"id":4,"image":"./public/image/fav4.webp"},
+            {"id":5,"image":"./public/image/fav5.webp"}
+            ],
+        
+            "favslide":[
+            {"id":1,"image":"./public/image/gotb.webp","text":"فصل 1-قسمت 1","text2":"رایگان","image2":"./public/image/svg-export/svgexport-14.png", "lock":[]},
+            {"id":2,"image":"./public/image/gotb.webp","text":"فصل 1-قسمت 1","lock":[{"id":1,"image":"./public/image/svg-export/icon-lock_fill.webp"}]},
+            {"id":3,"image":"./public/image/gotb.webp","text":"فصل 1-قسمت 1","lock":[{"id":1,"image":"./public/image/svg-export/icon-lock_fill.webp"}]},
+            {"id":4,"image":"./public/image/gotb.webp","text":"فصل 1-قسمت 1","lock":[{"id":1,"image":"./public/image/svg-export/icon-lock_fill.webp"}]},
+            {"id":5,"image":"./public/image/gotb.webp","text":"فصل 1-قسمت 1","lock":[{"id":1,"image":"./public/image/svg-export/icon-lock_fill.webp"}]},
+            {"id":6,"image":"./public/image/gotb.webp","text":"فصل 1-قسمت 1","lock":[{"id":1,"image":"./public/image/svg-export/icon-lock_fill.webp"}]},
+            {"id":7,"image":"./public/image/gotb.webp","text":"فصل 1-قسمت 1","lock":[{"id":1,"image":"./public/image/svg-export/icon-lock_fill.webp"}]},
+            {"id":8,"image":"./public/image/gotb.webp","text":"فصل 1-قسمت 1","lock":[{"id":1,"image":"./public/image/svg-export/icon-lock_fill.webp"}]}
+          ]
+        }
+    ],
+ 
+    "look":[{"id":1, "image1":"./public/image/deviceYaghi.webp","text1":"تماشای فیلیمو با همه دستگاها ","text2":"می‌توانید فیلیمو را به صورت هم‌زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ‌تاپ، تلویزیون و... تماشا کنید","text3":"خرید اشتراک وتماشا","image2":"./public/image/svg-export/svgexport-11.png",
+   "game":[
+    {"id":1,"text":"کامپیوتر و لپ‌تاپ","image":"./public/image/svg-export/svgexport-18.png","span":"windows PC - MacOS - Chorom OS"},
+    {"id":2,"text":"موبایل وتبلت","image":"../public/image/svg-export/mobile.webp","span":"Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets"},
+    {"id":3,"text":"کنسول بازی","image":"./public/image/svg-export/game.webp","span":"Xbox Series S - Xbox Seris X - PS5 - PS4"}
+   ]}
+
+   ],
+ 
+   "look2":[{"id":1, "image1":"./public/image/TVBG.webp","text1":"چطور با تلویزیون، فیلیمو تماشا کنم؟","text2":"ما برای راحتی شما و تماشای فیلیمو روی تلویزیون‌های مختلف 6 روش را فراهم کردیم. هرکدام از این 6 روش یک ویدیو آموزشی دارند که می‌توانید از لینک زیر، آن‌ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید.","text3":"ویدیوهای آموزشی با تماشا","image2":"./public/image/svg-export/svgexport-15.png",
+   "game":[
+    {"id":1,"text":"تلویزیون","image":"./public/image/svg-export/TV.webp","span":"Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung"},
+    {"id":2,"text":"اندروید تی وی","image":"./public/image/svg-export/androidTV.webp","span":"NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"}
+    
+   ]}
+   ],
+
+   "free":[{"id":1,"text":"محتوای رایگان",
+   "slider":[
+    {"id":1,"image1":"./public/image/free1.webp","text1":"پایتخت","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+    {"id":2,"image1":"./public/image/free2.webp","text1":"عقرب","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+    {"id":3,"image1":"./public/image/free3.webp","text1":"ملکه گدایان","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+    {"id":4,"image1":"./public/image/free4.webp","text1":"شاهرگ","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+    {"id":5,"image1":"./public/image/free5.webp","text1":"ویرانگر","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+    {"id":6,"image1":"./public/image/free6.webp","text1":"حماسه دره","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+    {"id":7,"image1":"./public/image/free1.webp","text1":"پایتخت","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+    {"id":8,"image1":"./public/image/free2.webp","text1":"عقرب","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+    {"id":9,"image1":"./public/image/free3.webp","text1":"ملکه گدایان","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+    {"id":10,"image1":"./public/image/free4.webp","text1":"شاهرگ","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+    {"id":11,"image1":"./public/image/free5.webp","text1":"ویرانگر","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+    {"id":12,"image1":"./public/image/free6.webp","text1":"حماسه دره","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"}
+    ]}],
+    
+    "freexs":[
+        {"id":1,"image1":"./public/image/free1.webp","text1":"پایتخت","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+        {"id":2,"image1":"./public/image/free2.webp","text1":"عقرب","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+        {"id":3,"image1":"./public/image/free3.webp","text1":"ملکه گدایان","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+        {"id":4,"image1":"./public/image/free4.webp","text1":"شاهرگ","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+        {"id":5,"image1":"./public/image/free5.webp","text1":"ویرانگر","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+        {"id":6,"image1":"./public/image/free6.webp","text1":"حماسه دره","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+        {"id":7,"image1":"./public/image/free1.webp","text1":"پایتخت","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+        {"id":8,"image1":"./public/image/free2.webp","text1":"عقرب","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+        {"id":9,"image1":"./public/image/free3.webp","text1":"ملکه گدایان","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+        {"id":10,"image1":"./public/image/free4.webp","text1":"شاهرگ","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+        {"id":11,"image1":"./public/image/free5.webp","text1":"ویرانگر","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"},
+        {"id":12,"image1":"./public/image/free6.webp","text1":"حماسه دره","image2":"./public/image/svg-export/svgexport-14.png","text2":"رایگان"}
+        ],
+      
+        "various":[{"id":1,"image":"./public/image/bg-kids_prev_ui.png","text1":"دنیایی متنوع از فیلم و کارتون‌های کودکانه",
+        "text2":"برای تماشای کودک بسازید یعنی محتوای مخصوص سن خودش را ببیند و به بقیه <br/>  ساخت فیلیموکودک این امکان را میدهد که با انتخاب سن فرزندتان یک فضای امن  <br/> ", "text3":"تماشای فیلیمو کودک","text4":"فیلیمو کودک ساز"}],
+        
+        "footer":[{"id":1,"image1":"./public/image/logo_text.webp","image2":"./public/image/svg-export/svgexport-11.png","text1":"خرید اشتراک وتماشا",
+        "tik":[
+           {"id":1,"image":"./public/image/svg-export/svgexport-10.png","text":"هزاران ساعت فیلم ایرانی وخارجی"},
+           {"id":2,"image":"./public/image/svg-export/svgexport-10.png","text":"هزاران انیمیشن و کارتون برای کودکان"},
+           {"id":3,"image":"./public/image/svg-export/svgexport-10.png","text":"پیشتیبانی شبانه روزی برای راهنمایی"}
+        ] 
+        }],
+        
+        "online":[{"id":1,"text":"سینما آنلاین فیلیمو",
+        "tik":[
+            {"id":1,"image":"./public/image/svg-export/svgexport-10.png","text":"فیلم های روز سینمای ایران"},
+            {"id":2,"image":"./public/image/svg-export/svgexport-10.png","text":"ساعت ها زمان برای تماشا فیلم"},
+            {"id":3,"image":"./public/image/svg-export/svgexport-10.png","text":"خرید یک بلیط برای تماشا همه خانواده"}
+        ],
+        "table":[
+            {"id":1,"image1":"./public/image/online1.webp","image2":"./public/image/svg-export/ticket.webp","text1":"پالایشگاه","text2":"اکران آنلاین","text3":"کارگردان:مهرداد خوشبخت","text4":" درام","text5":"جنگی","text6":"خرید بلیط"},
+
+            {"id":2,"image1":"./public/image/online2.webp","image2":"./public/image/svg-export/ticket.webp","text1":"هاوایی","text2":"اکران آنلاین","text3":"کارگردان:بهمن گودرزی","text4":"کمدی","text5":"ماجراجویی","text6":"خرید بلیط"},
+
+            {"id":3,"image1":"./public/image/online3.webp","image2":"./public/image/svg-export/ticket.webp","text1":"گیجگاه","text2":"اکران آنلاین","text3":"کارگردان:عادل تبریزی","text4":"کمدی","text5":"عاشقانه","text6":"خرید بلیط"},
+
+            {"id":4,"image1":"./public/image/online4.webp","image2":"./public/image/svg-export/ticket.webp","text1":"آهو","text2":"اکران آنلاین","text3":"کارگردان:هوشنگ گمکانی","text4":"درام","text5":"خانوادگی","text6":"خرید بلیط"},
+
+            {"id":5,"image1":"./public/image/online5.webp","image2":"./public/image/svg-export/ticket.webp","text1":"نگهبان شب","text2":"اکران آنلاین","text3":"کارگردان:رضا میرکریمی","text4":"درام","text5":"عاشقانه","text6":"خرید بلیط"} 
+        ]
+        }],
+
+        "daisy":[{"id":1,"text1":"سوالات متداول","text2":"سوال شایع دیگر کاربران که شاید سوال شما هم باشد",
+        "table":[
+            {"id":1,"title":"ایا میتوانم فیلم های موجود در فیلیمو را دانلود کنم؟",
+            "span":"بله شما میتوانید همه فیلم ها وسریال های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان هایی که اینترنت ندارید یا در سفر هواپیما و قطار ان ها را تماشا کنید برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می توانید اقدام کنید برای جزییات بیشتر میتوانید فیلم های اموزشی مربوط به دانلود از طریق اپلیکیشن را تماشا کنید"},
+            {"id":2,"title":"ایا میتوانم فیلم های موجود در فیلیمو را دانلود کنم؟",
+            "span":"بله شما میتوانید همه فیلم ها وسریال های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان هایی که اینترنت ندارید یا در سفر هواپیما و قطار ان ها را تماشا کنید برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می توانید اقدام کنید برای جزییات بیشتر میتوانید فیلم های اموزشی مربوط به دانلود از طریق اپلیکیشن را تماشا کنید"},
+            {"id":3,"title":"ایا میتوانم فیلم های موجود در فیلیمو را دانلود کنم؟",
+            "span":"بله شما میتوانید همه فیلم ها وسریال های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان هایی که اینترنت ندارید یا در سفر هواپیما و قطار ان ها را تماشا کنید برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می توانید اقدام کنید برای جزییات بیشتر میتوانید فیلم های اموزشی مربوط به دانلود از طریق اپلیکیشن را تماشا کنید"},
+            {"id":4,"title":"ایا میتوانم فیلم های موجود در فیلیمو را دانلود کنم؟",
+            "span":"بله شما میتوانید همه فیلم ها وسریال های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان هایی که اینترنت ندارید یا در سفر هواپیما و قطار ان ها را تماشا کنید برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می توانید اقدام کنید برای جزییات بیشتر میتوانید فیلم های اموزشی مربوط به دانلود از طریق اپلیکیشن را تماشا کنید"}
+
+           
+        ]   }]
+       
+    
+
+}
